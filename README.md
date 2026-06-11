@@ -2,21 +2,13 @@
 ![](terminal-icon.png)
 ![](gui-icon.png)
 
-Це одна з робіт, які доповнюють основний цикл лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП.  Основна мета цих додаткових вправ - познайомитись з різними видами інтерфейсів користувача та засобами їх створення. Згадувані 'базові' роботи розміщено в [окремому репозиторії](https://github.com/liketaurus/OOP-JAVA) (якщо будете робити завдання на "4" або "5" раджу переглянути [діаграму класів](https://github.com/liketaurus/OOP-JAVA/blob/master/MyBank.png), аби розуміти які методи є у класів).
+В ході першої роботи я виконав **наступне завдання** - [Робота 2: CLI з jline 3](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202.md)
 
-В ході першої роботи вам пропонується виконати **наступне завдання** - [Робота 2: CLI з jline 3](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202.md)
-  
-**Додаткове завдання** (для тих хто зробив все і прагне більшого): [дивіться тут](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/Lab%202%20-%20CLI/Lab%202%20-%20add.md)
+Завдання на 5 балів:
+[Відкрити CLIdemo.java](https://github.com/ppc-ntu-khpi/tui-2-passion348/blob/master/src/CLIdemo/CLIdemo.java)
 
-Всі необхідні бібліотеки містяться у теці [jars](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/tree/master/jars). В тому числі - всі необхідні відкомпільовані класи з робіт 1-8 - файл [MyBank.jar](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/blob/master/jars/MyBank.jar). Файл даних лежить у теці [data](https://github.com/ppc-ntu-khpi/TUI-Lab2-Starter/tree/master/data).
+<img width="591" height="552" alt="Снимок экрана 2026-06-11 115914" src="https://github.com/user-attachments/assets/cc7c251d-b519-4fd8-a318-1bdd069bc093" />
 
----
-**УВАГА! Не забуваємо здавати завдання через Google Classroom та вказувати посилання на створений для вас репозиторій!**
+<img width="1071" height="454" alt="Снимок экрана 2026-06-11 121610" src="https://github.com/user-attachments/assets/0f494aad-0613-4746-aedd-d625a1a1294a" />
 
-Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
-А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
-
-![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
-![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
-[![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<img width="371" height="324" alt="Снимок экрана 2026-06-11 121634" src="https://github.com/user-attachments/assets/7bd50296-e659-4eda-9f30-7ae73b4e9dd7" />
